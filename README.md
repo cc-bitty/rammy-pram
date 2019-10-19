@@ -1,1 +1,2 @@
 # rammy-pram
+sudo kill~
